@@ -16,4 +16,4 @@ https://softuni.bg/certificates/details/108798/6c20806e
 
 Certificates, Python Django Web Framework can be downloaded from:
 
-Certificates, Python Django Web can be downloaded from:
+https://softuni.bg/certificates/details/111863/f18ee8a5
