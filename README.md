@@ -1,3 +1,7 @@
+Certificate for Flask backend can be downloaded from:
+
+https://softuni.bg/certificates/details/122833/11ee4ab9
+
 Cеrtificate for Python OOP can be downloaded from:
 
 https://softuni.bg/certificates/details/103991/3552e7fd
